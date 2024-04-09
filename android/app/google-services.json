@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980547760636",
+    "project_id": "test-multifactor-auth",
+    "storage_bucket": "test-multifactor-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980547760636:android:ad66c9b76b81bf80fbc279",
+        "android_client_info": {
+          "package_name": "com.ultronsys.test_multifactor_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FF8vWpQOHOdpqWPYrsxao1s_FBqmaLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
